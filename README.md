@@ -13,7 +13,7 @@
 | | |
 |---|---|
 | **What** | A travel guide to Zimbabwe: destinations, places to stay, eat and visit, safaris, itineraries, events and food, in English and French |
-| **Role** | Founder and sole engineer: product, data, backend, frontend, infrastructure and operations |
+| **Role** | Sole developer: data pipeline, backend, frontend, testing, deployment and operations |
 | **Timeline** | First commit 21 September 2026; live on its own domain by November 2026 |
 | **Scale** | 347 reviewed places, 9 destinations with 4 sub-areas, about 380 pull requests merged |
 | **Stack** | Python 3.12 · FastAPI · Jinja · PostgreSQL/PostGIS · Docker · Fly.io · Cloudflare · GitHub Actions · Playwright |
